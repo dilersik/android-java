@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cadastro de Clientes</string>
+    <string name="hello_world">Oi mundo!</string>
+    <string name="action_settings">Configs</string>
+    
+    <string name="imgicon">Ícone legal</string>
+    
+    <string name="lbadd">Cadastrar</string>
+    <string name="lbcity">Cidade:</string>
+    <string name="lbdel">Apagar</string>
+    <string name="lbemail">E-mail:</string>
+    <string name="lbedit">Editar</string>
+    <string name="lbname">Nome:</string>
+    
+    <string name="txtclientAdd">Cadastrar Clientes</string>
+    <string name="txtclientList">Listar Clientes</string>    
+
+</resources>

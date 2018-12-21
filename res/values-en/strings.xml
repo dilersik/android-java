@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Cadastro de Clientes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    
+    <string name="imgicon">Nice icon</string>
+    
+    <string name="lbadd">Submit</string>
+    <string name="lbcity">City:</string>
+    <string name="lbdel">Delete</string>
+    <string name="lbemail">Email:</string> 
+    <string name="lbedit">Save</string>
+    <string name="lbname">Name:</string>
+    
+    <string name="txtclientAdd">Add Customer</string>
+    <string name="txtclientList">List Customers</string>  
+
+</resources>
